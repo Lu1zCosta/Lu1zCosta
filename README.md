@@ -1,95 +1,26 @@
-# 👨🏻‍💻 Luiz Fernando
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lu1zCosta/Lu1zCosta/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lu1zCosta/Lu1zCosta/main/light.svg">
+  <img alt="Luiz Fernando Costa Lima" src="https://raw.githubusercontent.com/Lu1zCosta/Lu1zCosta/main/light.svg">
+</picture>
 
-**`Desenvolvedor FullStack`**
-
-Olá! Meu nome é Luiz Fernando, tenho 23 anos e sou natural de Goiânia - GO. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso o bacharelado em Ciência da Computação.
-Nos últimos dois anos, atuei como analista de sistemas em empresas do setor de varejo, com foco em soluções voltadas à emissão de notas fiscais. Nesse período, tive a oportunidade de atuar diretamente com clientes, entender suas rotinas e contribuir para a resolução de desafios técnicos e operacionais.
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-  align="left" 
-  alt="JavaScript" 
-  title="JavaScript"
-  width="30px" 
-  style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
-/>         
-
-
-  <img 
-  align="left" 
-  alt="Figma" 
-  title="Figma"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-          
-
-
- <img 
-   align="left" 
-  alt="Python" 
-  title="Python"
-  width="30px" 
-  style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
-
-  <img
-  align="left" 
-  alt="Postgres" 
-  title="Postgres"
-  width="30px" 
-  style="padding-right: 10px;"  
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-          
-
-<img 
-  align="left" 
-  alt="Sql" 
-  title="Sql"
-  width="30px" 
-  style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-
-<img 
-  align="left" 
-  alt="Git" 
-  title="Git"
-  width="30px" 
-  style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-          
-
-<img 
-  alt="API" 
-  title="API"
-  width="30px" 
-  style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-          
-      
-
+<div align="center">
+<img width="100%" src="https://streak-stats.demolab.com/?user=Lu1zCosta&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
 <br/>
-<br/>
+<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=Lu1zCosta&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Lu1zCosta&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+</div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lu1zCosta/Lu1zCosta/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lu1zCosta/Lu1zCosta/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Lu1zCosta/Lu1zCosta/output/github-snake.svg" />
+</picture>
+</div>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/luiz-fernando-792377256/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</div>
